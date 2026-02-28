@@ -5,7 +5,7 @@
 ## Version: @project-version@
 ## X-Date: @project-date-iso@
 ## X-Category: Bags & Inventory
-## X-Curse-Project-ID: 956341
+## X-Curse-Project-ID: 1474458
 ## Dependencies: BetterBags
 #@alpha@
 ## OptionalDeps: BugSack, BugGrabber
