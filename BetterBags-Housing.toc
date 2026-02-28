@@ -1,0 +1,33 @@
+## Interface: 120000, 120001,
+## Title: BetterBags - Housing
+## Author: Sauravisus (Xirastrasza - Argent Dawn EU, Horde)
+## Notes: Adds categories for Housing items, Dyes, and Lumber to BetterBags.
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## X-Category: Bags & Inventory
+## X-Curse-Project-ID: 956341
+## Dependencies: BetterBags
+#@alpha@
+## OptionalDeps: BugSack, BugGrabber
+#@end-alpha@
+## IconTexture: Interface\Icons\inv_misc_bag_24_netherweave_imbued
+
+## Category-enUS: Inventory
+## Category-deDE: Inventar
+## Category-esES: Inventario
+## Category-esMX: Inventario
+## Category-frFR: Inventaire
+## Category-itIT: Inventario
+## Category-koKR: 소지품
+## Category-ptBR: Inventário
+## Category-ruRU: Предметы
+## Category-zhCN: 物品栏
+## Category-zhTW: 物品欄
+
+## Group: BetterBags
+
+main.lua
+
+#@debug@
+## Version: DEV
+#@end-debug@
