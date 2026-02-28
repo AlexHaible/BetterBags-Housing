@@ -12,6 +12,8 @@
 #@end-alpha@
 ## IconTexture: Interface\Icons\inv_misc_bag_24_netherweave_imbued
 
+## Group: BetterBags
+
 ## Category-enUS: Inventory
 ## Category-deDE: Inventar
 ## Category-esES: Inventario
@@ -23,8 +25,6 @@
 ## Category-ruRU: Предметы
 ## Category-zhCN: 物品栏
 ## Category-zhTW: 物品欄
-
-## Group: BetterBags
 
 main.lua
 
