@@ -9,7 +9,6 @@ local L = addon:GetModule('Localization')
 
 ---@class Context: AceModule
 local context = addon:GetModule('Context')
-
 local ctx = context:New('BetterBags_Housing_Registration')
 
 categories:CreateCategory(ctx, {
