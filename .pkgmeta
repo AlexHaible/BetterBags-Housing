@@ -1,4 +1,4 @@
-package-as: BetterBags-Teleports
+package-as: BetterBagsHousing
 enable-toc-creation: yes
 enable-nolib-creation: no
 
@@ -8,4 +8,4 @@ required-dependencies:
   - better-bags
 
 ignore:
-  - BetterBagsTeleports.png
+  - BetterBagsHousing.png
