@@ -1,4 +1,5 @@
-## Interface: 120007, 120100
+## Interface: 120100, 120105
+
 ## Title: BetterBags - Housing
 ## Author: Sauravisus (Xirastrasza - Argent Dawn EU, Horde)
 ## Notes: Adds categories for Housing items, Dyes, and Lumber to BetterBags.
